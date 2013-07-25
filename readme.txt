@@ -1,4 +1,4 @@
-﻿=== WordPress Mechanic ===
+﻿=== WP Mechanic ===
 
 Contributors: Fahad Mahmood
 Donate link: http://goo.gl/GHX5N
