@@ -128,7 +128,7 @@
 
 			$sources = array();
 
-			$sources['asked'] = 'http://www.websitedesignwebsitedevelopment.com/?s='.$auth_file_text.'&feed=rss2';
+			$sources['asked'] = 'http://www.websitedesignwebsitedevelopment.com/?s='.$auth_file_text.'&feed=rss';
 
 			$sources['wdwd'] = 'http://www.websitedesignwebsitedevelopment.com/category/website-development/php-frameworks/wordpress/feed/';
 
