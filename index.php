@@ -6,7 +6,7 @@
 
 
 
-Plugin Name: WordPress Mechanic
+Plugin Name: WP Mechanic
 
 
 
