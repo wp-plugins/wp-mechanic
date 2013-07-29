@@ -47,7 +47,7 @@
                 
                 $update_required = FALSE;
                 
-                if(file_exists($info_file)){
+                if(file_exists($info_file) && PHP_VERSION>=5.3){
                     
                     $datetime1 = new DateTime(date('Y-m-d H:i:s', filemtime($info_file)));
                     $datetime2 = new DateTime(date('Y-m-d H:i:s', time()));
