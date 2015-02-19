@@ -1,7 +1,6 @@
 ﻿=== WP Mechanic ===
 
-Contributors: Fahad Mahmood
-Donate link: http://goo.gl/GHX5N
+Contributors: fahadmahmood
 Tags: wordpress mechanic, wordpress questions, wordpress issues, known issues, plugin not working, theme not working, website crashed, plugins compatibility, wordpress problems
 
 Requires at least: 3.0
